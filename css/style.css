@@ -1,0 +1,57 @@
+.layer1 {
+  background-color: #A4D0A4;
+}
+.layer2 {
+  background-color: #FA9884;
+  margin-top: 0;
+  padding-top: 0;
+}
+.cuisine {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.layer3 {
+  background-color: #A4D0A4;
+}
+.layer0 {
+  background-color: #282A3A;
+}
+
+.nav-item:hover {
+text-decoration: underline;
+text-decoration: blue;
+}
+.foot {
+  background-color: #282A3A;
+  color: white;
+}
+.img-layer1 {
+  border-radius: 10px;
+}
+.layer2 {
+  padding-top: 15px;
+}
+.sub {
+  font-weight: bold;
+  font-family: Merriweather;
+}
+.mini {
+  padding-top: 50px;
+}
+.mini-service {
+  margin-bottom: 30px;
+}
+.chef {
+  height: 100px;
+  width: 100px;
+}
+.feature-icon {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 0.75rem;
+}
+.contact {
+  padding-top: 8px;
+  padding-bottom: 2px;
+}
